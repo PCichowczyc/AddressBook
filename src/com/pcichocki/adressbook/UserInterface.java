@@ -133,7 +133,7 @@ public class UserInterface {
         return date;
     }
 
-
+//TODO dopisać dodawanie adresu do persony
     public void addPerson() {
 
         Person person = new Person();
